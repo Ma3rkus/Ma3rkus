@@ -9,11 +9,9 @@
 
 - 📫 How to reach me **maarten.adriaenssens1@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/maarten-adriaenssens-864722209](www.linkedin.com/in/maarten-adriaenssens-864722209)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/maarten adriaenssens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maarten adriaenssens" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maarten-adriaenssens-864722209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maarten-adriaenssens-864722209" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
